@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_cms"]=self["webpackChunkvue3_cms"]||[]).push([[267],{5267:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var r=u(6252);function t(e,n,u,t,c,a){return(0,r.wg)(),(0,r.iD)("div",null,"chat")}var c=(0,r.aZ)({name:"ChAt",setup(){return{}}}),a=u(3744);const s=(0,a.Z)(c,[["render",t]]);var f=s}}]);
+//# sourceMappingURL=267.69839604.js.map
